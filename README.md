@@ -20,7 +20,12 @@ The Automatic Number Plate Recognition (ANPR) project is a comprehensive system 
 
 ## Usage
 
-[Provide instructions on how to use or run the project. Include any setup requirements, dependencies, and execution steps.]
+# Project Dependencies
+
+Below is a list of Python package dependencies required to run this project. You can install these packages using `pip` with the following command:
+
+```bash
+pip install -r requirements.txt
 
 ## Examples
 
