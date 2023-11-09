@@ -26,6 +26,7 @@ Below is a list of Python package dependencies required to run this project. You
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Examples
 
